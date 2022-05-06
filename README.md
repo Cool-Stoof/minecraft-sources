@@ -8,4 +8,4 @@ Eaglercraft Server: any 1.5.2 java server
 3. MineKhan (note that you can only build blocks/mine on this) [thanks bandruf {download}]: https://bandruf.github.io/minekhan
 
 # IMPORTANT
-**The Files nor website for prismarine and MineKhan will work if it gets blocked by iBoss.**
+**The Files nor website for prismarine will work if it gets blocked by iBoss.**
